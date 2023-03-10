@@ -1,1 +1,7 @@
-asdasdasdasdads
+sasasdasdadadad
+
+
+
+git revert passando o id do commit, sera criado novo commit.
+
+retirando o que tinha feito no ultimo commit.
